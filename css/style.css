@@ -1,23 +1,4 @@
 
-
-.container{
-  background-color: red;
-  width: 50%;
-  margin:0;
-  border: 0;
-}
-
-.container2{
-  background-color: yellow;
-    margin:0;
-    border: 0;
-}
-
-.container3{
-  background-color: green;
-    margin:0;
-}
-
 .top-container{
   border-style: solid;
   width: auto;
@@ -93,7 +74,7 @@ aside{
 }
   .info{
     position: relative;
-    width:50px;
+    width:auto;
     height:auto;
   }
 
